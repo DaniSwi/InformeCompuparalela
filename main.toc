@@ -1,0 +1,8 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Índice General\vspace {-0.5cm}}{\es@scroman {i}}{}%
+\contentsline {chapter}{Lista de Figuras\vspace {-0.5cm}}{\es@scroman {ii}}{}%
+\contentsline {chapter}{\numberline {1}Introducción}{1}{}%
+\contentsline {chapter}{\numberline {2}Fundamentación y teoría}{2}{}%
+\contentsline {section}{\numberline {2.1}Concurrencia}{2}{}%
+\contentsline {section}{\numberline {2.2}Posibles fallos en nodos independientes}{2}{}%
+\contentsline {section}{\numberline {2.3}Justificación de transparencia}{4}{}%
